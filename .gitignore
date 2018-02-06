@@ -1,0 +1,14 @@
+/build/
+bin/
+repos/
+doc/
+.gradle/
+target/
+
+.idea/*
+
+gradle/wrapper
+gradlew.bat
+gradlew
+
+local.properties
